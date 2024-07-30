@@ -45,24 +45,20 @@ Ce projet est une application complète de gestion d'inventaire des plantes de c
    cd application_mobile_hachiche
    ```
 
-2. **Installez les dépendances :**
-
-   ```bash
-   npm install --legacy-peer-deps
-   ```
-
-3. **Lancez le serveur backend :**
+2. **Lancez le serveur backend :**
 
    ```bash
    cd Backend_Application_Hachiche
+   npm install --legacy-peer-deps
    npm start
    ```
 
 3. **Lancez l'application mobile avec Expo :**
 
    ```bash
-   cd frontend
-   expo start
+   cd Frontend_Application_Hachiche
+   npm install --legacy-peer-deps
+   npx expo start
    ```
 ## Utilisation 
 

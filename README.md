@@ -41,6 +41,6 @@ Ce projet est une application complète de gestion d'inventaire des plantes de c
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/Massinjouba/portfolio_nextjs.git
+   git clone https://github.com/Massinjouba/application_mobile_hachiche-.git
    cd portfolio_nextjs
    ```

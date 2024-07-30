@@ -78,6 +78,7 @@ Ce projet est une application complète de gestion d'inventaire des plantes de c
 
 ## Colaborateurs 
 
+  - Rahmani Massinissa Idir
   - Idir Kebbiche
   - Bouguettaya Amine
   - Issad Rayan

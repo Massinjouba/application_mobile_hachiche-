@@ -1,4 +1,4 @@
-# Gestion d'Inventaire des Plantes de Cannabis 🌿📱
+# Gestion d'Inventaire des Plantes de Cannabis 
 
 ## Description du Projet
 
@@ -51,3 +51,30 @@ Ce projet est une application complète de gestion d'inventaire des plantes de c
    npm install --legacy-peer-deps
    ```
 
+3. **Lancez le serveur backend :**
+
+   ```bash
+   cd backend
+   npm start
+   ```
+
+3. **Lancez l'application mobile avec Expo :**
+
+   ```bash
+   cd frontend
+   expo start
+   ```
+## Utilisation 
+
+1. **Saisie de données : Utilisez l'application mobile pour saisir les informations des plantes.**
+2. **Scan des codes QR : Utilisez la fonction de scan pour accéder rapidement aux détails des plantes.**
+3. **Gestion des inventaires : Consultez, recherchez et filtrez les plantes selon vos besoins.**
+   
+## Contributions
+  - Les contributions sont les bienvenues ! Si vous avez des idées, des suggestions ou des améliorations à proposer, n'hésitez pas à ouvrir une issue ou une pull request.
+
+## Licence
+  - Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+
+## Contact
+  - Pour toute question ou information supplémentaire, veuillez contacter Rahmani Massinissa Idir à l'adresse email suivante : massinissaidirr@gmail.com.

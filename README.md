@@ -54,7 +54,7 @@ Ce projet est une application complète de gestion d'inventaire des plantes de c
 3. **Lancez le serveur backend :**
 
    ```bash
-   cd backend
+   cd Backend_Application_Hachiche
    npm start
    ```
 

@@ -4,7 +4,7 @@
 
 Ce projet est une application complète de gestion d'inventaire des plantes de cannabis, destinée principalement aux vendeurs. Elle permet de saisir, modifier et consulter les informations relatives à chaque plante de manière efficace et accessible. L'application est développée avec une version mobile, utilisant Expo et React Native pour le front-end et Express pour le back-end. La gestion des données est assurée par SQLite.
 
-| ![IMG-20240729-WA0010](https://github.com/user-attachments/assets/54e4def6-d39d-4072-8af7-4fdd732fac5a) | ![IMG-20240729-WA0009](https://github.com/user-attachments/assets/37955416-e0fa-48f1-b8a2-e7bff5b8b998) |
+| <img src="https://github.com/user-attachments/assets/54e4def6-d39d-4072-8af7-4fdd732fac5a" width="300"/> | <img src="https://github.com/user-attachments/assets/37955416-e0fa-48f1-b8a2-e7bff5b8b998" width="300"/> |
 |:---------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
 
 

@@ -76,5 +76,12 @@ Ce projet est une application complète de gestion d'inventaire des plantes de c
 ## Licence
   - Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
+## Colaborateurs 
+
+  - Idir Kebbiche
+  - Bouguettaya Amine
+  - Issad Rayan
+  - Mohamed Amine Berrdjem
+
 ## Contact
   - Pour toute question ou information supplémentaire, veuillez contacter Rahmani Massinissa Idir à l'adresse email suivante : massinissaidirr@gmail.com.

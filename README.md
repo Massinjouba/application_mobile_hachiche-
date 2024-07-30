@@ -68,7 +68,7 @@ Ce projet est une application complète de gestion d'inventaire des plantes de c
 
 1. **Saisie de données : Utilisez l'application mobile pour saisir les informations des plantes.**
 2. **Scan des codes QR : Utilisez la fonction de scan pour accéder rapidement aux détails des plantes.**
-3. **Gestion des inventaires : Consultez, recherchez et filtrez les plantes selon vos besoins.**
+3. **Gestion des inventaires : Ajoutez, modufiez, consultez, recherchez et filtrez les plantes selon vos besoins.**
    
 ## Contributions
   - Les contributions sont les bienvenues ! Si vous avez des idées, des suggestions ou des améliorations à proposer, n'hésitez pas à ouvrir une issue ou une pull request.

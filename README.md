@@ -38,9 +38,16 @@ Ce projet est une application complète de gestion d'inventaire des plantes de c
 
 ### Installation
 
-1. Clonez le dépôt :
+1. **Clonez le dépôt :**
 
    ```bash
    git clone https://github.com/Massinjouba/application_mobile_hachiche-.git
    cd application_mobile_hachiche
    ```
+
+2. **Installez les dépendances :**
+
+   ```bash
+   npm install --legacy-peer-deps
+   ```
+
